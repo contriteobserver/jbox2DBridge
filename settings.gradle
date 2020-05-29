@@ -1,0 +1,2 @@
+rootProject.name='Jbox2D Bridge'
+include ':app'
